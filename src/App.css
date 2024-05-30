@@ -1,0 +1,53 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.bodyDark{background-color: black;
+color: gainsboro;
+min-height: 100vh;
+
+}
+.bodyDark{background-color: rgb(39, 39, 39);
+color: gainsboro;
+min-height: 100vh;
+
+}
+
+.btn{
+    padding: .2rem;
+    border: 1px solid light;
+    border-radius: 10px;
+    display: flex;
+    color: blanchedalmond;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.btnDark{
+    background-color: grey;
+    color: blanchedalmond;
+    
+}
+.btnLight{
+    background-color: rgb(34, 33, 33);
+    color: rgb(230, 230, 230);
+}
+
+.aDark{text-decoration: none;
+color: aliceblue;
+
+
+}
+.aLight{text-decoration: none;
+color: rgb(30, 30, 31);
+
+
+}
+
+
+
